@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy policy
+permalink: /privacy/
 ---
 
 # Privacy policy
@@ -15,8 +16,8 @@ Coffee Quitter is an Android app published by Lareon. If you have any questions 
 
 Coffee Quitter stores the following information **on your device only**:
 
-- Caffeine log entries â€” timestamp, drink type, milligram amount, volume in millilitres, optional size label, optional notes.
-- App settings â€” daily limit, volume unit, currency, half-life override, sleep target time, drink price overrides.
+- Caffeine log entries — timestamp, drink type, milligram amount, volume in millilitres, optional size label, optional notes.
+- App settings — daily limit, volume unit, currency, half-life override, sleep target time, drink price overrides.
 - Auto-taper plan state, if you have created one.
 
 We do not collect any of this on a server. The app does not transmit your caffeine log to Lareon, our employees, or any third party.
@@ -36,13 +37,13 @@ Coffee Quitter is intended for users aged 13 and older, in line with the Google 
 
 ## Your rights under UK GDPR
 
-Because all of your in-app data is stored on your device, you can exercise your right to erasure simply by uninstalling the app â€” Lareon has no server-side data about you to delete. For other rights (access, portability, rectification, objection, complaint), please contact <tony1987@gmail.com> and we will respond within one month, in line with the UK GDPR.
+Because all of your in-app data is stored on your device, you can exercise your right to erasure simply by uninstalling the app — Lareon has no server-side data about you to delete. For other rights (access, portability, rectification, objection, complaint), please contact <tony1987@gmail.com> and we will respond within one month, in line with the UK GDPR.
 
 You also have the right to lodge a complaint with the UK Information Commissioner's Office: <https://ico.org.uk/concerns/>.
 
 ## Updates to this policy
 
-We will update this page when we make material changes â€” for example, when we integrate the RevenueCat SDK noted above. The "Last updated" date at the top will reflect the most recent change. Once the in-app notification capability supports it, substantive changes will trigger an in-app notice.
+We will update this page when we make material changes — for example, when we integrate the RevenueCat SDK noted above. The "Last updated" date at the top will reflect the most recent change. Once the in-app notification capability supports it, substantive changes will trigger an in-app notice.
 
 ## Contact
 
